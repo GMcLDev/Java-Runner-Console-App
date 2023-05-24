@@ -1,0 +1,22 @@
+Clyde Runners sorted from fastest to slowest 
+
+The fastest person is: [Chantelle, Oliver, 68]
+
+
+Created on: 24/05/2023 08:22
+[Chantelle, Oliver, 68]
+[John, Brown, 70]
+[William, White, 70]
+[Callum, Dawson, 72]
+[Anne, Waters, 75]
+[Adam, Stark, 78]
+[Natalie, Wallis, 80]
+[Elliot, Ness, 80]
+[Peter, Black, 90]
+[Richard, Smith, 90]
+[Betty, Davis, 95]
+[Pauline, Cook, 97]
+[Colin, Davis, 103]
+[Paul, Blue, 110]
+[Gavin, Brown, 120]
+[Al, Capone, 140]
